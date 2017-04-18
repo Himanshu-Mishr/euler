@@ -1,0 +1,4 @@
+answer is 233168
+
+Average time
+python : 0.622 msec
